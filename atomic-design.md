@@ -41,8 +41,13 @@ Pages are specific instances of templates. It means that placeholder content is 
 ## What are the benefits
 Building up from molecules to organisms encourages creating standalone, portable, reusable components. Specifically for the new university website this methodology allows us to build a pattern library that will help the project be maintainable and future friendly allowing the new website to evolve fluently.
 
+### References
+- [Pattern library demo](http://demo.patternlab.io/)
+- [Pittsburg Food Bank pattern library](http://foodbank.bradfrostweb.com/patternlab/v10/)
+- [Kirby CMS pattern library](http://ui.getkirby.com/panel/)
+
 #### Notes
-This document is heavily inspired by [Brad Frost’s article on Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/). All images are taken from his post.  
+This document is __heavily inspired__ by [Brad Frost’s article on Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/). Certain expression and all images are taken from his post.  
 
 
 
