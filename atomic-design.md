@@ -45,6 +45,7 @@ Building up from molecules to organisms encourages creating standalone, portable
 - [Pattern library demo](http://demo.patternlab.io/)
 - [Pittsburg Food Bank pattern library](http://foodbank.bradfrostweb.com/patternlab/v10/)
 - [Kirby CMS pattern library](http://ui.getkirby.com/panel/)
+- [Ushahidi pattern library](http://github.ushahidi.org/platform-pattern-library/)
 
 #### Notes
 This document is __heavily inspired__ by [Brad Frost’s article on Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/). Certain expression and all images are taken from his post.  
